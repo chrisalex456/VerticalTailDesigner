@@ -1,1 +1,1 @@
-# VerticalTailDesigner
+# Vertical Tail Designer
