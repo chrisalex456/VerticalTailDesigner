@@ -11,12 +11,6 @@ Analyze vertical tail sizing and positioning to optimize aerodynamic stability i
 - Key stability derivatives (Clb, CnB, Cnr) are calculated.
 - Mesh plots visualize sensitivity to geometry changes.
 
-
-## 📎 Files
-- `aircraft_stability.m`: Full simulation script
-- `/figures`: Saved plots
-- `summary.pdf`: 1-page project brief with key plots and findings
-
 ## 🧠 Key Takeaways
 - Roll and yaw stability improve with increased tail height and CG distance.
 - Effective rudder deflection requires a well-placed and sized vertical tail.
